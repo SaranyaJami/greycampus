@@ -1,0 +1,16 @@
+
+
+
+Today,
+
+I studied basics of ruby in RubyMonk-Rubyprimer
+	Introduction to Modules
+	01.Getting Modular
+	02.Modules as Namespaces	
+
+
+1.Installed GIT on ubuntu
+2.congiured with username and password
+3.used it to push my daily report fails into greycampus repository in GIT.
+
+I learn some basic commands to install,configure and use git on ubuntu. 
