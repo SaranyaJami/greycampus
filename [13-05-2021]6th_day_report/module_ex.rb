@@ -20,5 +20,6 @@ module WarmUp
     end
   end
   
-  #puts WarmUp.push_ups
+  puts Gym.new.push_ups
   puts Dojo.new.push_ups
+  #puts WarmUp.push_ups
