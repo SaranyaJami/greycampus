@@ -4,12 +4,12 @@ def c
 end
   
 def b
-   c
+   c #calling c method
 end
   
 def a
-    b
+    b #calling b method
 end
   
-a
+a # calling a method
     
