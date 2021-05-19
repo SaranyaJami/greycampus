@@ -11,5 +11,8 @@ class Island
       puts @candidates.all? { |c| c == "Jack" }
     end
 end
-a=Island.new("Jack")
-a
+a=Island.new(["Jack","Esau"])
+a.safe?
+a.survive?
+a=Island.new(["Jack","Jack"])
+a.safe?
